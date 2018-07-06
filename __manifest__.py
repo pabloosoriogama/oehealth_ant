@@ -6,7 +6,7 @@
 {
     'name': 'oeHealth Personalizado',
     'version': '1.0',
-    'author': "Braincrew Apps",
+    'author': "Braincrew Apps, Pablo Osorio",
     'category': 'Generic Modules/Medical',
     'summary': 'Odoo 11 Hospital Management Solutions',
     'depends': ['base', 'sale', 'purchase', 'account', 'product','document','hr','web', 'account_invoicing'],
